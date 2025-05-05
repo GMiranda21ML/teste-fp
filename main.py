@@ -1,2 +1,5 @@
 print("Hello World!")
-print("Legal")
+
+x = 2
+
+print(x)
