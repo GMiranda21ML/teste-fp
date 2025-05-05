@@ -1,5 +1,4 @@
 print("Hello World!")
+print("Legal")
+print("Oie")
 
-x = 2
-
-print(x)
